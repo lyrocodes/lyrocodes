@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/tBkLbIT.gif)](https://discord.com/users/996060367585300490)
 <h1 align="center">Hi 👋, I'm LyroCodes</h1>
-<h3 align="center">A Full-Stacked Developer from Sri Lanka</h3>
+<h3 align="center">A 16 Y/O Full-Stacked Developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/H1jokFs.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyrocodes&label=Profile%20views&color=0e75b6&style=flat" alt="lyrocodes" /> </p>
